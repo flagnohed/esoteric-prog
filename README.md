@@ -1,2 +1,2 @@
 # esoteric-prog
-Trying out weird languages
+Trying out weird languages wish me luck
